@@ -1,5 +1,28 @@
-# 💫 About Me:
-👋 Halo, saya Hisyam Eka Pramudita!<br><br>Saya mahasiswa Sistem Informasi dan seorang data enthusiast yang tertarik pada pengembangan proses bisnis digital dan desain pengalaman pengguna (UI/UX).<br>Saya memiliki ketertarikan besar terhadap otomasi sistem, analisis data, serta bagaimana teknologi dapat meningkatkan efisiensi bisnis dan pengalaman pengguna.<br><br>🔧 Fokus saya:<br>Analisis data, otomasi proses bisnis, dan perancangan sistem berbasis pengguna.<br><br>💻 Tools & Tech:<br>Python (pandas, matplotlib), SPSS, Bizagi Modeler, Figma, HTML, CSS, Tailwind CSS, JavaScript, Google Sheets, Canva.<br><br>📊 Proyek yang sedang dikerjakan:<br><br>Rekayasa ulang proses bisnis untuk Yukiee Store (otomasi pemesanan dan pencatatan dengan bot).<br><br>Landing page donasi online menggunakan Tailwind CSS.<br><br>Analisis perilaku pengguna e-commerce dengan uji Chi-Square, Spearman, dan Mann-Whitney (SPSS & Python).<br><br>🚀 Tujuan saya:<br>Menggabungkan analisis data, desain, dan otomasi untuk menciptakan solusi digital yang efisien dan berorientasi pada manusia.<br><br>🧠 Nilai kerja:<br>Saya percaya bahwa teknologi terbaik adalah yang membuat hidup manusia lebih sederhana dan bermakna.
+💫 About Me:
+
+👋 Hi, I’m Hisyam Eka Pramudita!<br><br>
+I’m an Information Systems student and a data enthusiast passionate about digital business process development and user experience design (UI/UX).
+I’m deeply interested in system automation, data analysis, and how technology can enhance business efficiency and user experiences.<br><br>
+
+🔧 My Focus:<br>
+Data analysis, business process automation, and user-centered system design.<br><br>
+
+💻 Tools & Tech:<br>
+Python (pandas, matplotlib), SPSS, Bizagi Modeler, Figma, HTML, CSS, Tailwind CSS, JavaScript, Google Sheets, Canva.<br><br>
+
+📊 Current Projects:<br>
+
+Business process reengineering for Yukiee Store — automating order management and record-keeping using bots.
+
+Developing a donation landing page with Tailwind CSS.
+
+Analyzing e-commerce user behavior using Chi-Square, Spearman, and Mann-Whitney tests (SPSS & Python).<br><br>
+
+🚀 My Goal:<br>
+To integrate data analysis, design, and automation in creating digital solutions that are efficient and human-centered.<br><br>
+
+🧠 Work Philosophy:<br>
+I believe the best technology is the one that makes life simpler and more meaningful.
 
 
 ## 🌐 Socials:
